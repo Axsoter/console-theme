@@ -1,4 +1,6 @@
-# MinecraftPurpleTheme
+# Axsoter console theme
+
+# This brobably wont work!
 
 Install script:
 ```sh
