@@ -1,6 +1,6 @@
 # Axsoter console theme
 
-# This brobably wont work!
+# This probably won't work!
 
 Install script:
 ```sh
